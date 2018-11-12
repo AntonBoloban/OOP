@@ -1,0 +1,73 @@
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova1.accdb
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.exe.config
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.exe
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.pdb
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\DAV.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_bilet.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Bus.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Disp.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Marsh.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_vodij.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Pereglad.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Main.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.About_program.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Form_Registation.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Properties.Resources.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Bilet.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Bus.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Disp.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Marsh.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Vod.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Vydalyt.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Welcome.resources
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\DAV.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.exe
+C:\Users\Anton\Desktop\КПІ1\ООП-2\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.pdb
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.exe.config
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.exe
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.pdb
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\DAV.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_bilet.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Bus.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Disp.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Marsh.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_vodij.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Pereglad.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Main.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.About_program.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Form_Registation.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Properties.Resources.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Bilet.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Bus.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Disp.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Marsh.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Vod.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Vydalyt.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Welcome.resources
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\DAV.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.exe
+C:\Users\Anton\Desktop\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.pdb
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.exe.config
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.exe
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\bin\Debug\Kursova_DAV.pdb
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\DAV.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_bilet.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Bus.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Disp.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_Marsh.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Dod_vodij.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Pereglad.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Main.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.About_program.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Form_Registation.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Properties.Resources.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Bilet.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Bus.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Disp.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Marsh.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Red_Vod.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Vydalyt.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.Welcome.resources
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\DAV.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.exe
+C:\Users\Anton\Desktop\КПІ1\5 СЕМЕСТР\Курсова\Kursova_DAV\Kursova_DAV\obj\Debug\Kursova_DAV.pdb
